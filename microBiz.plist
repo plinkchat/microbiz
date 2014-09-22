@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://bcs.duapp.com/microbiz/microBiz-V1.1-1223.ipa</string>
+					<string>http://bcs.duapp.com/microbiz/microBiz-V1.1-1583.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,9 +23,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>微商务1.1.1</string>
+				<string>微商务1.1.2</string>
 				<key>title</key>
-				<string>微商务1.1.1</string>
+				<string>微商务1.1.2</string>
 			</dict>
 		</dict>
 	</array>
